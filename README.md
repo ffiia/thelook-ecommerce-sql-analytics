@@ -16,7 +16,7 @@ This project explores five business questions across various departments:
 * **[Queries](queries)** : Contains all SQL query files.
 * **[README.md](README.md)** : A report summarising the business analysis findings for the team.
 ---
-## Key Findings
+## Key Insights
 ### A. Product Category Distribution:
   Intimates has the highest number of products in the catalogue (2,363), followed by Jeans (1,999), Tops & Tees (1,868), Fashion Hoodies & Sweatshirts (1,866), and Swim (1,798). Meanwhile, Outerwear & Coats ranks 11th, with 1,420 products.
 
