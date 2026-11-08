@@ -34,4 +34,3 @@ Business Insight:
 ## Conclusion
 * **Rethink product assortment decisions:** Before expanding a product range or increasing warehouse stock, assess actual sales performance and monthly demand trends.
 * **Investigate the drivers of category sales:** Compare units sold and average selling prices to determine whether higher sales values are driven by sales volume, pricing, or both.
-* **Validate profitability before reallocating resources:** High sales value does not necessarily mean higher profit. Assess product costs and gross margins alongside sales performance before prioritising categories for further investment.
