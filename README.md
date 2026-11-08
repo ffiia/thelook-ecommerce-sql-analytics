@@ -16,13 +16,17 @@ This project explores five business questions across various departments:
 * **[Queries](queries)** : Contains all SQL query files.
 * **[README.md](README.md)** : A report summarising the business analysis findings for the team.
 ---
-## Key Insights
-### A. Product Category Distribution:
+## Result
+### Product Profiling:
+  The query results are displayed in the attached output.
+### Premium Product Identification:
+  A total of 4,002 products are priced above $100, with the highest retail price reaching $999. Examples include Shorts by Alpha Industries, Outerwear & Coats by Alpha Industries, and Outerwear & Coats by Woolrich.
+### Product Category Distribution:
   Intimates has the highest number of products in the catalogue (2,363), followed by Jeans (1,999), Tops & Tees (1,868), Fashion Hoodies & Sweatshirts (1,866), and Swim (1,798). Meanwhile, Outerwear & Coats ranks 11th, with 1,420 products.
 
 Further analysis: 
   The top five categories include a mix of everyday apparel, such as Intimates, Jeans, and Tops & Tees, alongside categories like Swim and Fashion Hoodies & Sweatshirts. This potentially reflecting its merchandising strategy. However, product counts alone do not necessarily indicate stronger customer demand or higher sales performance. Further analysis of revenue, product return rates, and order quantities is needed to evaluate the actual performance.
-### B. Sales Tracking:
+### Sales Tracking:
   Outerwear & Coats ranks 11th by product count, with 1,420 products, yet generates the highest recorded sales value at $1.32 million. Meanwhile, Intimates has the largest catalogue, with 2,363 products, but does not rank among the five highest categories by sales value.
   Swim also stands out, ranking fifth in both product count (1,798) and total sales value ($653,463). Its sales value slightly exceeds that of Fashion Hoodies & Sweatshirts ($641,335), despite having fewer products.
 
